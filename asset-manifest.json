@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/Nada_Portfolio/static/css/main.039bf95e.css",
-    "main.js": "/Nada_Portfolio/static/js/main.f5518602.js",
+    "main.js": "/Nada_Portfolio/static/js/main.09e82a10.js",
     "static/media/Hello.gif": "/Nada_Portfolio/static/media/Hello.d93720933c608f6178fb.gif",
     "static/media/nadou.png": "/Nada_Portfolio/static/media/nadou.0d3d6870e0e8064d4b75.png",
     "static/media/CV_Nada_Joobeur.pdf": "/Nada_Portfolio/static/media/CV_Nada_Joobeur.c670ce4552c7e3181be7.pdf",
@@ -35,10 +35,10 @@
     "static/media/tensorflow.svg": "/Nada_Portfolio/static/media/tensorflow.d978d6b0a450f5416ab4aa62d3795a0c.svg",
     "static/media/db.svg": "/Nada_Portfolio/static/media/db.2d972ed1c8aae43a5a7dea51e2201211.svg",
     "main.039bf95e.css.map": "/Nada_Portfolio/static/css/main.039bf95e.css.map",
-    "main.f5518602.js.map": "/Nada_Portfolio/static/js/main.f5518602.js.map"
+    "main.09e82a10.js.map": "/Nada_Portfolio/static/js/main.09e82a10.js.map"
   },
   "entrypoints": [
     "static/css/main.039bf95e.css",
-    "static/js/main.f5518602.js"
+    "static/js/main.09e82a10.js"
   ]
 }
